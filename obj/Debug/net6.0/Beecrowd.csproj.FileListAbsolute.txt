@@ -1,0 +1,15 @@
+D:\Visual Studio Workspace\Beecrowd\bin\Debug\net6.0\Beecrowd.exe
+D:\Visual Studio Workspace\Beecrowd\bin\Debug\net6.0\Beecrowd.deps.json
+D:\Visual Studio Workspace\Beecrowd\bin\Debug\net6.0\Beecrowd.runtimeconfig.json
+D:\Visual Studio Workspace\Beecrowd\bin\Debug\net6.0\Beecrowd.dll
+D:\Visual Studio Workspace\Beecrowd\bin\Debug\net6.0\Beecrowd.pdb
+D:\Visual Studio Workspace\Beecrowd\obj\Debug\net6.0\Beecrowd.csproj.AssemblyReference.cache
+D:\Visual Studio Workspace\Beecrowd\obj\Debug\net6.0\Beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Workspace\Beecrowd\obj\Debug\net6.0\Beecrowd.AssemblyInfoInputs.cache
+D:\Visual Studio Workspace\Beecrowd\obj\Debug\net6.0\Beecrowd.AssemblyInfo.cs
+D:\Visual Studio Workspace\Beecrowd\obj\Debug\net6.0\Beecrowd.csproj.CoreCompileInputs.cache
+D:\Visual Studio Workspace\Beecrowd\obj\Debug\net6.0\Beecrowd.dll
+D:\Visual Studio Workspace\Beecrowd\obj\Debug\net6.0\refint\Beecrowd.dll
+D:\Visual Studio Workspace\Beecrowd\obj\Debug\net6.0\Beecrowd.pdb
+D:\Visual Studio Workspace\Beecrowd\obj\Debug\net6.0\Beecrowd.genruntimeconfig.cache
+D:\Visual Studio Workspace\Beecrowd\obj\Debug\net6.0\ref\Beecrowd.dll
